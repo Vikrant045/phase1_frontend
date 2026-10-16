@@ -6,7 +6,7 @@ Built with **Next.js 14 + React 18 + TypeScript + Lucide Icons + Vanilla CSS Des
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Start the Backend API (Port 5000)
 Make sure your Phase 1 Express backend is running:
@@ -26,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## ✨ Features & Working Scenarios
+##  Features & Working Scenarios
 
 ### 1. Interactive Working Scenarios Runner
 Dedicated 1-click test suite at the top of the dashboard for viva, interviews, and presentations:
@@ -79,7 +79,7 @@ Integrated technical cheat-sheet covering:
 
 ---
 
-## 📁 Simple & Clean Project Structure
+##  Simple & Clean Project Structure
 
 ```
 phase_1_frontend/
